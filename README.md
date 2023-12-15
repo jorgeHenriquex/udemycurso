@@ -1,4 +1,4 @@
-Conclusão  missões do Pathway de aprendizagem guiada Unity Essentials. --> https://learn.unity.com/u/6579e344edbc2a56ac4531de?tab=profile
+Conclusão  missões do Pathway de aprendizagem guiada Unity Essentials.
 
  Participar do projeto universitário voltado para a realização de cursos de conteúdo da Unity foi uma experiência extremamente enriquecedora para mim. 
 Durante essa iniciativa, tive a oportunidade de explorar e absorver conhecimentos que, até então, eram inexplorados em minha jornada acadêmica.
