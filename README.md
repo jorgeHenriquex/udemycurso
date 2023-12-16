@@ -10,4 +10,4 @@ pude não apenas adquirir habilidades técnicas, mas também vislumbrar novas po
  A jornada no projeto não apenas expandiu meu entendimento sobre a Unity, mas também me incentivou a explorar horizontes mais amplos no campo da tecnologia. 
 Essa experiência significativa não só contribuiu para o meu desenvolvimento acadêmico, mas também moldou minha visão sobre as oportunidades que o vasto universo tecnológico tem a oferecer.
 
-                                                 https://learn.unity.com/u/6579e344edbc2a56ac4531de?tab=profile
+ Segue o link do perfil: https://learn.unity.com/u/6579e344edbc2a56ac4531de?tab=profile
